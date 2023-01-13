@@ -1,0 +1,32 @@
+h2, h1{
+    text-align: center;
+    color: black;
+} 
+ h2{
+    text-align: center;
+}
+button{
+   border: 0;
+   border-radius: 5px;
+   font-size: 25px;
+   font-family: sans-serif;
+   font-weight: bold;
+   color: white;
+   display: block;
+   margin: 10px auto;
+}
+#increment-btn{
+   background-color: darkred;
+   padding: 10px 60px;
+}
+#save-btn{
+   background-color: darkgreen;
+   padding: 10px 100px;
+}
+p{
+   text-align: center;
+}
+body{
+    background: url("https://media.istockphoto.com/id/1255056515/photo/winter-station.jpg?s=612x612&w=0&k=20&c=_zFOf1DwRGwzXvKmlOHaymVLtf4RLcD-GRMyfNHeZBU=");
+    background-size: cover;
+} 
